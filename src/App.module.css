@@ -1,0 +1,26 @@
+.calculator{
+   
+    border: 2px outset rgb(18, 16, 16);
+    border-radius:5px;
+    width:18rem;
+    height:25rem;
+    padding:12px;
+    background-color: rgba(67, 61, 61, 0.114) !important;
+  
+  
+    
+
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    margin:12%;
+    
+}
+
+
+
+
+
